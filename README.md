@@ -13,5 +13,12 @@ A simple web application that retrieves movie data from a public movie API and d
 - CSS
 - REST API
 
+## Setup
+
+This project requires a TMDB API key.
+
+1. Create an API key from https://www.themoviedb.org/
+2. Replace `YOUR_API_KEY` in the script.js file with your own key.
+
 ## Author
 Htut Myat Min
