@@ -2,6 +2,9 @@
 
 A simple web application that retrieves movie data from a public movie API and displays search results dynamically.
 
+## Preview
+<img width="1898" height="808" alt="image" src="https://github.com/user-attachments/assets/043f89b8-95b4-4d3d-bd81-1f874cd9ce3b" />
+
 ## Features
 - Search movies by title
 - Fetch movie data using a public API
