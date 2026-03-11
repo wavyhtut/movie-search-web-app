@@ -1,6 +1,6 @@
-const APILINK = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&api_key=c8b8bcef4cc630853fe0422c39312118'
+const APILINK = 'https://api.themoviedb.org/3/discover/movie?include_adult=false&include_video=false&language=en-US&page=1&sort_by=popularity.desc&api_key=YOUR_API_KEY'
 const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
-const SEARCHAPI = 'https://api.themoviedb.org/3/search/movie?api_key=c8b8bcef4cc630853fe0422c39312118&query='
+const SEARCHAPI = 'https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query='
 
 
 const main = document.getElementById('section');
@@ -54,3 +54,4 @@ form.addEventListener("submit",(e)=>{
         search.value = ""
     }
 });
+
